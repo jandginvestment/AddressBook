@@ -1,0 +1,19 @@
+{
+  "name": "addressbook",
+  "version": "1.0.0",
+  "description": "api creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "AddressBook"
+  },
+  "keywords": [
+    "address",
+    "book"
+  ],
+  "author": "j",
+  "license": "ISC"
+}
