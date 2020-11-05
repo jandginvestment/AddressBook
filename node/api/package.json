@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "api creation",
   "main": "index.js",
+  "start": "nodemon server.js",
   "scripts": {
     "test": "test.js"
   },
@@ -15,5 +16,12 @@
     "book"
   ],
   "author": "j",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.12"
+  }
 }
